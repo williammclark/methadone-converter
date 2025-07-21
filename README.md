@@ -13,6 +13,7 @@ The formula accounts for nonlinear pharmacokinetics at higher doses, improving u
 ## Formula
 The following formula is applied:
 <img width="778" height="120" alt="image" src="https://github.com/user-attachments/assets/5f10db62-43b6-425d-a152-a4691f9f90fb" />
+
 Where x is the oral morphine equivalent dose.
 
 ## Disclaimer
